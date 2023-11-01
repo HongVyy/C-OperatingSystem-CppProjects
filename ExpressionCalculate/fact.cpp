@@ -1,6 +1,6 @@
+//Calculate n! and n >= 0
 #include <iostream>
 using namespace std;
-
 int main() {
     int n;
     long factorial = 1.0;
