@@ -1,3 +1,4 @@
+//adding score bar and gameover display
 #include <X11/Xlib.h>
 #include <X11/keysym.h>
 #include <iostream>
