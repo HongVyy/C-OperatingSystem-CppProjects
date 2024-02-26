@@ -1,5 +1,6 @@
 //adding score bar and gameover display
-
+//g++ -o ping_pong pingpong.cpp -lX11
+//./ping_pong
 #include <X11/Xlib.h>
 #include <X11/keysym.h>
 #include <iostream>
