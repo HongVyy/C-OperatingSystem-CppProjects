@@ -5,9 +5,7 @@
 #include <X11/Xlib.h>
 #include <X11/keysym.h>
 #include <iostream>
-#include <unistd.h> // for usleep()
-
-// Ball structure
+#include <unistd.h> 
 struct Ball {
     int x, y; // Position
     int xdir, ydir; // Direction
