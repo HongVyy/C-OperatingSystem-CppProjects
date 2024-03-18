@@ -8,7 +8,7 @@
 #include <sys/wait.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
-#include <pthread.h>  // Include pthread header for pthread functions
+#include <pthread.h>  
 
 #define MAX_COLORS 5
 #define COLOR_BOX_WIDTH 50
